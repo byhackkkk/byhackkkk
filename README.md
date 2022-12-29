@@ -47,11 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/byhackkkk/byhackkkk/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://open.spotify.com/user/Adnan Barlak">
