@@ -1,4 +1,4 @@
-<h2 align="left">Hello World! My name is Adnan and I'm a BackEnd Developer , from Turkey</h2>
+<h2 align="left">Hello World!</h2>
 
 
 
